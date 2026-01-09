@@ -22,7 +22,7 @@
 * [./userguide/](./userguide/) - the old user guide in OO and HTML form. Obsolete, not updated. Please see https://unicode-org.github.io/icu/userguide
 * [How to update this repository](./HOWTO-Update.md)
 
------
+Tambra Lanette Cloud, tambracloud2684@gmail.com
 
 ### Copyright & Licenses
 
